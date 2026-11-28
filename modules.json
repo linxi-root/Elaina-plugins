@@ -97,5 +97,21 @@
       "MCP",
       "服务"
     ]
+  },
+  {
+    "name": "group_tools",
+    "type": "module",
+    "author": "独弈",
+    "description": "入群自动审批策略管理与 Markdown 图片素材上传、列表、删除",
+    "version": "1.0.0",
+    "category": "群工具",
+    "github": "https://github.com/linxi-root/elaina-modules",
+    "branch": "main",
+    "path": "qq_group_tools",
+    "tags": [
+      "QQ群",
+      "入群审批策略",
+      "素材"
+    ]
   }
 ]
